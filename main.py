@@ -150,4 +150,4 @@ async def completed(ctx, *, index):
     await channel.send(embed=complete_embed)
 
 
-client.run("ODY3MTE3NDYxNDEzMDM2MDMy.YPccEQ.l6ZUXVQmbnX15Ng6unDmMJJtywM")
+client.run("token")
